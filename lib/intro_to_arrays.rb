@@ -9,5 +9,8 @@ def array_with_two_elements
 end
 
 def first_element(anArr)
-  anArr[0]
+  anArr.first()
 end
+
+def second_element(anArr)
+  anArr
