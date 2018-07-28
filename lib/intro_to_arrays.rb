@@ -10,3 +10,4 @@ end
 
 def first_element(anArr)
   anArr[0]
+end
