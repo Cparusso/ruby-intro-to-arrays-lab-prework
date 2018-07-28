@@ -28,7 +28,7 @@ def first_element_with_array_methods(anArr)
   anArr.first()
 end
 
-def last_element_with_array_metho(anArr)
+def last_element_with_array_methods(anArr)
   anArr.last()
 end
 
