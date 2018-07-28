@@ -23,3 +23,7 @@ end
 def last_element(anArr)
   anArr.last()
 end
+
+def first_element_with_array_methods(anArr)
+  anArr.first()
+end
