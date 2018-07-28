@@ -7,3 +7,6 @@ def array_with_two_elements
   anArr = ["one", 2]
   anArr
 end
+
+def first_element(anArr)
+  anArr[0]
