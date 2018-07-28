@@ -19,3 +19,7 @@ end
 def third_element(anArr)
   anArr[2]
 end
+
+def last_element(anArr)
+  anArr.last()
+end
