@@ -13,4 +13,5 @@ def first_element(anArr)
 end
 
 def second_element(anArr)
-  anArr
+  anArr[1]
+end
