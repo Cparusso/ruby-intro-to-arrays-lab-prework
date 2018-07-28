@@ -15,3 +15,7 @@ end
 def second_element(anArr)
   anArr[1]
 end
+
+def third_element(anArr)
+  anArr[2]
+end
