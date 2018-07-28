@@ -21,7 +21,7 @@ def third_element(anArr)
 end
 
 def last_element(anArr)
-  anArr.last()
+  anArr.-1
 end
 
 def first_element_with_array_methods(anArr)
